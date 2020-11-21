@@ -1,5 +1,5 @@
 # DDPG_on_DMControl_Suite
-Solving ceetah,cartpole,reacher,walker Deepmind Control Suite using DDPG
+Solving cheetah,cartpole,reacher,walker Deepmind Control Suite using DDPG
 
 This repo is from my Master's degree thesis work.
 I used PlaNet to prove that model-based DRL can overcome the model-free algorithms in terms of sample efficiency.
@@ -17,6 +17,6 @@ To have more details on the full work, visit [blog article.](https://drlux.githu
 
 # Links
 ----------------
-[My work with PlaNet]https://github.com/DrLux/Planpix
-[MoritzTaylor implementation ]https://github.com/MoritzTaylor/ddpg-pytorch
-[OpenAi implementation]https://github.com/openai/baselines/blob/master/baselines/ddpg/noise.py
+[My work with PlaNet](https://github.com/DrLux/Planpix)
+[MoritzTaylor implementation](https://github.com/MoritzTaylor/ddpg-pytorch)
+[OpenAi implementation](https://github.com/openai/baselines/blob/master/baselines/ddpg/noise.py)
